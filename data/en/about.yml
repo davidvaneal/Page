@@ -1,0 +1,13 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : https://i.ibb.co/1f4qMhv/Mar-a-P-Toro.gif
+    title : Somos Quindío 
+    description : >
+      Somos una asociación de enlace, consulta, difusión e interacción de los Biólogos de la región; así como un órgano de consulta y ejecución académica, técnica y científica.
+
+  - positionRight : true
+    image : https://i.ibb.co/MMs9W5w/14563422-10211121122449532-1126987007627436896-n.jpg
+    title : Uniquindianos
+    description : >
+      Nuestros socios son profesionales en el área de la Biología de programas de pregrado y posgrado de la Universidad del Quindío, que voluntariamente se afilian y participan activamente en la Asociación

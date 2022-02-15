@@ -1,0 +1,21 @@
+enable  : true
+item  :
+  - image : "https://hablemosdeaves.com/wp-content/uploads/2018/08/loro-amarillo.jpg"
+    title : Loro Orejiamarillo 
+    sp : >
+      Ognorhynchus icterotis
+    description : >
+     
+
+  - image : "https://multimedia20stg.blob.core.windows.net/especiesreduced/tapirus-pinchaque_segundaac.jpg"
+    title : Tapir de montaña
+    sp : >
+      Tapirus pinchaque
+    description : >
+      
+
+  - image : "https://multimedia20stg.blob.core.windows.net/especiesreduced/18991909rufinapweb.jpg"
+    title : Venado del páramo
+    sp : >
+      Mazama rufina
+    description : >

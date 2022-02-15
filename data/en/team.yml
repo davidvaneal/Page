@@ -1,0 +1,42 @@
+enable  : true
+topTitle: Miembros 
+title   : Junta directiva
+subtitle: Periodo 2021 - 2022
+
+member  :
+  - image         : https://i.ibb.co/XphqzFq/EG.png
+    name          : Eduardo Grajales Hernández
+    designation   : Presidente 
+    description   : >
+     
+    webURL   : https://rbiologos.github.io/author/eduardo-grajales/
+    facebookURL   : https://www.facebook.com/oscar.gh.35
+    twitterURL    : https://twitter.com/ed_grajales
+    instagramURL   : https://www.instagram.com/gh_bio/
+    linkedinURL   : https://www.linkedin.com/in/eduardo-grajales-hernandez-29036814a/
+
+  - image         : https://i.ibb.co/R3RNg0v/pp.jpg
+    name          : Maritza Gallego Urrego
+    designation   : Vicepresidenta
+    description   : >
+
+  - image         : https://i.ibb.co/0YH1N3y/DV.png
+    name          : David Andrés Vanegas Alarcón
+    designation   : Tesorero
+    description   : >
+    
+    webURL   : https://davidvaneal.github.io/
+    facebookURL   : https://www.facebook.com/davidvaneal/
+    twitterURL    : https://twitter.com/Davidvaneal
+    instagramURL   : https://www.instagram.com/davidvaneal/
+    linkedinURL   : https://www.linkedin.com/in/davidvaneal/
+
+  - image         : https://i.ibb.co/M1wMLxk/Eliana.jpg
+    name          : Eliana P. Giraldo  
+    designation   : Secretaria 
+    description   : >
+    
+  - image         : https://i.ibb.co/k8z0y98/ALGH.png
+    name          : Andrea Lorena García Hernández
+    designation   : Fiscal
+    description   : >

@@ -1,0 +1,25 @@
+enable    : true
+topTitle   : Un poco más sobre
+title     : Nosotros
+subtitle  : 
+tabItem   :
+  - id        : philosophy
+    title     : Nuestra filosofía
+    heading   : Somos biólogos
+    content   : >
+      La ASOCIACIÓN DE BIÓLOGOS DEL QUINDÍO ASOBIOQ es una entidad sin ánimo de lucro, de carácter académico y científico, de número de asociados variable, de capital variable e ilimitado, con domicilio en la ciudad de Armenia Carrera 15 calle 12N, Programa de Biología 3er piso, Bloque de Ciencias Básicas y Tecnológicas, y su ámbito de operaciones es la República de Colombia.
+    image     : https://i.ibb.co/sgxPt9X/Quind-o.jpg
+
+  - id        : mission
+    title     : Misión
+    heading   : Nuestra Misión
+    content   : >
+      La Asociación de Biólogos Uniquindianos es una asociación civil que fomenta la articulación entre sus agremiados, entre éstos y la Universidad del Quindío, y otras entidades de carácter público, privado y mixto, para promover la actualización y la participación en actividades relacionadas con la educación y la investigación de las diferentes formas de vida, de sus interrelaciones y de su conservación
+    image     : https://i.ibb.co/Mnp82t9/asociaci-n.jpg
+
+  - id        : vision
+    title     : Visión
+    heading   : Nuestra Visión
+    content   : >
+      En el año 2023 La Asociación de Biólogos del Quindío será reconocida en Colombia como la principal instancia de enlace, consulta, difusión e interacción de los Biólogos de la región; así como un órgano de consulta y ejecución académica, técnica y científica a nivel nacional.
+    image     : https://i.ibb.co/5WVSFz9/visi-n.jpg

@@ -1,0 +1,18 @@
+enable  : true
+topTitle: Nuestro trabajo
+title   : ¿Qué hacemos?
+subtitle: 
+item    :
+  - number  : 
+    icon    : tf-ion-leaf
+    title   : Proyectos
+    description : >
+      Damos soporte a nuestros asociados en el desarrollo de sus proyectos, y otras personas que lo requieran 
+
+  - number  : 
+    icon    : tf-ion-ios-paw
+    title   : Contribución
+    description : >
+      Contribuimos al desarrollo ambiental de la región a partir de proyectos ambientales y educativos
+
+ 

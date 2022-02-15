@@ -1,0 +1,153 @@
+
+baseURL = "https://asobioq.github.io/"
+title = "Asociación de Biólogos del Quindío"
+
+languageCode = "en-us"
+theme = "navigator-hugo"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Site Params
+[params]
+logo = "https://i.ibb.co/2PNpYDJ/Asobioq.png"
+
+# meta data
+author = "Themefisher"
+description = "Página de la Asociación Biólogos del Quíndio"
+
+############# 2 - Site en ENGLISH
+[Languages.en]
+languageCode = "en-us"
+title = "AsoBioQ"
+dateFormat = "January 2, 2006"
+home = "Inicio"
+logo = "https://i.ibb.co/f8m188D/aso-font.png"
+menufixed = true
+
+footerDescription = "Página de la Asociación de Biólogos del Quindío"
+footerServiceTitle = "Servicios"
+footerQuicklinkTitle = "Accesos rápidos"
+footerAboutTitle = "Acerca de nosotros"
+footerSubscribeTitle = "Subscríbete"
+
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+# Hero Area Section
+[Languages.en.params.hero]
+enable  = true
+heading = "Asociación de Biólogos del Quíndio"
+description = "La ASOBIOQ es una entidad sin ánimo de lucro, de carácter académico y científico que fomenta la articulación entre sus agremiados, entre éstos y las Universidades y entre otras entidades de carácter público, privado y mixto"
+button  = false
+btnText = "Grupo Facebook"
+btnURL  = "https://www.facebook.com/asobioq"
+videoThumb = "https://i.ibb.co/2PNpYDJ/Asobioq.png"
+
+# About 2 Section
+[Languages.en.params.aboutSm]
+enable  = false
+title   = "We have efxplored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.en.params.blog]
+enable  = true
+topTitle= "Documentos y"
+title   = "Actividades"
+subtitle= ""
+
+# Contact Section
+[Languages.en.params.contact]
+enable  = true
+topTitle= "ENVÍANOS UN CORREO"
+title   = "Contáctanos"
+
+subtitle= ""
+address = "Armenia - Quindío - Colombia <br> Carrera 15 Calle 12N <br> Programa de Biología"
+phone   = "311 744 9767"
+fax   = "305 943 4565"
+facebook= "https://www.facebook.com/asobioq/"
+instagram= "https://www.instagram.com/asobioq/"
+
+
+# Call to Action Section on About Page
+[Languages.en.params.cta]
+enable  = true
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "¿Necesitas apoyo en algún proyecto?"
+subtitle= "La asociación presta los servicios de apoyo a nuestros asociados, con el fin de generar un plus en los trabajos presentados por nuestros socios"
+btnText = "Contáctanos"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name    = "about"
+url     = "about"
+weight  = 2
+
+[[menu.nav]]
+name    = "webdesign"
+url     = "blog"
+weight  = 2
+
+[[menu.nav]]
+name    = "webdevelopment"
+url     = "https://asobioq.github.io/blog/tramite/"
+weight  = 4
+
+[[menu.nav]]
+name    = "contact"
+url     = "contact"
+weight  = 6
+
+[[menu.nav]]
+name    = "documents"
+url     = "https://asobioq.github.io/blog/app/"
+weight  = 5
+
+# Footer Service Menu
+[[menu.service]]
+name    = "graphicdesign"
+url     = "https://github.com/AsoBioQ/Documentos/raw/main/Estatutos%20ASOBIOQ.pdf"
+weight  = 1
+
+[[menu.service]]
+name    = "doc"
+url     = "blog"
+weight  = 2
+
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name    = "partners"
+url     = ""
+weight  = 1
+
+[[menu.quicklink]]
+name    = "tramita"
+url     = "https://consejoprofesionaldebiologia.gov.co/servicios/tramitar-matricula-profesional/"
+weight  = 3
+
+[[menu.quicklink]]
+name    = "consejo"
+url     = "https://consejoprofesionaldebiologia.gov.co/"
+weight  = 2
+

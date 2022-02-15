@@ -1,0 +1,29 @@
+[about]
+other = "Nosotros"
+[service]
+other = "Documentos"
+[portfolio]
+other = "Portafolio"
+[blog]
+other = "Blog"
+[contact]
+other = "Contacto"
+[documents]
+other = "Asóciate"
+
+
+[graphicdesign]
+other = "Estatuto ASOBIOQ"
+[webdesign]
+other = "Actividades"
+[webdevelopment]
+other = "Trámite Tarjeta"
+
+[doc]
+other = "Documentos de interés"
+
+[tramita]
+other = "Tramita tu Tarjeta profesional"
+
+[consejo]
+other = "Consejo Profesional de Biología"
